@@ -12,6 +12,7 @@
 body {
     background-image: url(./assets/bg-image.png);
     background-size: cover;
+    background-color: #573a37;
 }
 
 #page {
@@ -24,6 +25,7 @@ body {
 
 img {
     border-radius: 16px;
+    padding: 24px;
 }
 
 main {
@@ -36,6 +38,7 @@ section+section {
 
 #about p+p {
     margin-top: 12px;
+    padding: 24px;
 }
 
 h1 {
@@ -63,7 +66,6 @@ footer {
     color: #F0E8C2;
     text-align: center;
     padding-bottom: 48px;
-
 }
 
 footer img {
